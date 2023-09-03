@@ -12,7 +12,7 @@ export const Navbar = () => {
     <div>
       <Login handleClose={handleClose} show={show} />
 
-      <nav className="flex w-screen  px-2 md:px-12 md:gap-12 content-center py-4 border-b shadow-md">
+      <nav className="flex w-screen px-2 md:px-6 md:gap-8 content-center py-4 border-b shadow-md">
         <span className="md:w-3/12 pt-2">
           <Image
             src="/whole.png"

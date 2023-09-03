@@ -10,7 +10,7 @@ export default function Home() {
       <Jumbotron />
       <div className="mx-8 lg:mx-36">
         <nav className="my-6 hidden md:flex border-b border-gray-300">
-          <ul className="text-gray-500 flex space-x-8">
+          <ul className="text-gray-500 flex sm:space-x-4 space-x-8">
             <li className="border-b-2 cursor-pointer border-black pb-2">
               All post (32)
             </li>
