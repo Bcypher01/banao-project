@@ -78,7 +78,6 @@ function Login({ show, handleClose }) {
                       <input
                         type="password"
                         className="block min-h-[auto] w-full rounded border bg-[#D9D9DB] px-3 py-[0.52rem] outline-none "
-                        id="exampleInput126"
                         placeholder="Password"
                       />
                     </div>
@@ -87,7 +86,6 @@ function Login({ show, handleClose }) {
                       <input
                         type="password"
                         className="block min-h-[auto] w-full rounded border bg-[#D9D9DB] px-3 py-[0.52rem] outline-none "
-                        id="exampleInput126"
                         placeholder="Confirm Password"
                       />
                     </div>
